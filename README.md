@@ -8,4 +8,4 @@ This class provides you a simpler interface to communicate with the PHPExcel cla
 
 ### Technologies
 - PHP
-- [PHPExcel](https://github.com/PHPOffice/PHPExcel)
+ - [PHPExcel](https://github.com/PHPOffice/PHPExcel)
